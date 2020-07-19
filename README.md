@@ -5,7 +5,7 @@ This project is by David Bachmann (bacdavid). It is not published or affiliated.
 Allows to estimated the pose of a mobile camera while tracking multiple objects and/ or instances of objects in a shared coordinate frame.  
 <div align="center">
 	<p>Setup</p>
-	<img src=img/Setup.png width="500" />
+	<img src=img/Setup.png width="300" />
 </div>
 
 ## Details
