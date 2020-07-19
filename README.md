@@ -16,7 +16,7 @@ Allows to estimated the pose of a mobile camera while tracking multiple objects 
 For further details feel free to contact me. 
 
 <div align="center">
-	<p>Setup</p>
+	<p>Methods</p>
 	<img src=img/Methods.png width="500" />
 </div>
 
