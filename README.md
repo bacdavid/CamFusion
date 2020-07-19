@@ -26,4 +26,4 @@ For further details feel free to contact me.
 Have a look in the `Apps` folder:
 - `PrintMarkers`: Print a set of Aruco markers
 - `CreateDictionary`: Create an object dictionary for later tracking
--`RunFusion`: Run the framework as prescribed in *Details*
+- `RunFusion`: Run the framework as prescribed in *Details*
