@@ -13,6 +13,7 @@ Allows to estimated the pose of a mobile camera while tracking multiple objects 
 1. The markers are mapped out by observing them jointly with the mobile camera
 2. Two webcams estimate their own pose for later triangulation of the object's position
 3. The mobile camera's pose is estimated while objects are being tracked
+
 For further details feel free to contact me. 
 
 <div align="center">
